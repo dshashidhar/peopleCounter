@@ -1,0 +1,7 @@
+[2017-08-30 08:11:05 +0000] [24926] [INFO] Starting gunicorn 19.7.1
+[2017-08-30 08:11:05 +0000] [24926] [INFO] Listening at: http://127.0.0.1:8000 (24926)
+[2017-08-30 08:11:05 +0000] [24926] [INFO] Using worker: sync
+[2017-08-30 08:11:05 +0000] [24931] [INFO] Booting worker with pid: 24931
+[2017-08-30 08:12:18 +0000] [24926] [INFO] Handling signal: int
+[2017-08-30 08:12:18 +0000] [24931] [INFO] Worker exiting (pid: 24931)
+[2017-08-30 08:12:18 +0000] [24926] [INFO] Shutting down: Master
